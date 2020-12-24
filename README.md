@@ -66,7 +66,7 @@ width="200" data-canonical-src="https://cdn.buymeacoffee.com/buttons/default-ora
 
 ## How to configure and run
 * Clone code from Github: git clone https://github.com/saineshwar/Frapper.API
-* Open solution Frapper.Web.sln in Visual Studio 2019
+* Open solution Frapper.API.sln in Visual Studio 2019
 * Database Scripts **FrapperAPIDB** (Main Database), [Download Database Script](https://github.com/saineshwar/Frapper.API/tree/main/Database_Script)
 * Run Database Script which is provided
 * **appsettings.json** file update **DatabaseConnection (FrapperAPIDB Database)** 
